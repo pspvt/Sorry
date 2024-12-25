@@ -1,0 +1,46 @@
+body {
+  background-color: rgb(7, 49, 60);
+}
+img {
+  height: 500px;
+  width: 50%;
+  margin-left: 25%;
+  margin-top: 100px;
+  text-align: center;
+}
+h1 {
+  font-family: "Playwrite CO Guides", serif;
+  text-align: center;
+}
+h2 {
+  text-align: center;
+  color: white;
+}
+p {
+  font-variation-settings: "FILL" 0, "wght" 400, "GRAD" 0, "opsz" 24;
+  text-align: center;
+}
+button {
+  align-items: center;
+  /* border: solid black; */
+  font-weight: bold;
+  color: white;
+  border-radius: 25px;
+  padding: 20px 40px;
+  font-size: large;
+
+  justify-content: center;
+}
+#mybutton {
+  background-color: green;
+
+  border: solid lightgreen;
+}
+#nobutton {
+  background-color: red;
+
+  border: solid lightcoral;
+}
+h3 {
+  text-align: center;
+}
